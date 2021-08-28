@@ -2,11 +2,11 @@
 [![Build Status](https://github.com/biospheere/promcord/workflows/Build/badge.svg?branch=master)](https://github.com/biospheere/promcord/actions)
 [![GitHub contributors](https://img.shields.io/github/contributors/biospheere/promcord.svg)](https://github.com/Biospheere/promcord/graphs/contributors/)
 
-# promcord
+# discord-exporter-prometheus
 
-## What is promcord?
+## What is discord-exporter-prometheus?
 
-Promcord is a Discord bot which provides metrics from a Discord server to create insight and alerting on actions and messages. Using [Grafana](https://grafana.com/) you can easily visualize all your metrics in beautiful dashboards.
+discord-exporter-prometheus is a Discord bot which provides metrics from a Discord server to create insight and alerting on actions and messages. Using [Grafana](https://grafana.com/) you can easily visualize all your metrics in beautiful dashboards.
 
 ![Grafana Gif](https://i.imgur.com/9JJQ2E6.gif)
 
@@ -69,8 +69,8 @@ DISCORD_TOKEN=<your token>
 ### Developer Installation
 
 1. Make sure all the prerequisites are installed.
-2. Fork promcord repository, ie. https://github.com/Biospheere/promcord/fork
-3. Clone your forked repository, ie. `git clone https://github.com/<your-username>/promcord.git`
+2. Fork discord-exporter-prometheus repository, ie. https://github.com/jazzakek/discord-exporter-prometheus/fork
+3. Clone your forked repository, ie. `git clone https://github.com/<your-username>/discord-exporter-prometheus.git`
 4. Set up your environment variables/secrets
 ```
 DISCORD_TOKEN=<your token>
