@@ -27,7 +27,6 @@ Promcord is a Discord bot which provides metrics from a Discord server to create
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Easiest way of reaching me is via [Discord](https://c0debase.de/).
 
 ## Getting Started
 
@@ -105,12 +104,3 @@ DISCORD_TOKEN=<your token>
 - [JDA](https://github.com/DV8FromTheWorld/JDA) - Java wrapper for the popular chat & VOIP service  [@discordapp](https://github.com/discordapp)
 - [Prometheus](https://prometheus.io/) 
 - [Perspective API](https://www.perspectiveapi.com/) 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-<p align="center">
-  <img alt="Haha yes " width="250px" src="https://i.imgur.com/5bXJeZt.png">
-  <br>
-</p>
-
